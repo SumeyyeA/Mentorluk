@@ -4,3 +4,5 @@ git add: ekleme
 git commit:  ne geliştirdiğimizi veya değiştirdiğimizi anlatan kısa bir mesaj yazmamız gerektiği için kullanılır
 git push: değişikliklerinizi uzak sunucuya gönderir
 git pull: güncellemeleri uzak depodan alır ve yerelinizdeki en son değişiklikleri uygular
+git init: yeni repo
+git log: geçmiş listeleme
