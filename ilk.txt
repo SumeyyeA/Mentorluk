@@ -1,0 +1,6 @@
+git brach: branch kullanarak birkaç geliştirici aynı proje üzerinde aynı anda paralel olarak çalışabilir
+git status: mevcut branch hakkında bize gerekli tüm bilgileri verir
+git add: ekleme
+git commit:  ne geliştirdiğimizi veya değiştirdiğimizi anlatan kısa bir mesaj yazmamız gerektiği için kullanılır
+git push: değişikliklerinizi uzak sunucuya gönderir
+git pull: güncellemeleri uzak depodan alır ve yerelinizdeki en son değişiklikleri uygular
